@@ -9,5 +9,6 @@
 <br/>
 <br/>
 <br/>
-
+<p align="center">
 <img src ="https://github.com/jinoklee/MSIdetection_for_DigitalPathology/assets/21270098/0c187900-47e9-4042-b325-9fdb40b4637c" width="80%">
+</p>
